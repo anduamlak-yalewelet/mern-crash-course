@@ -72,7 +72,7 @@ A full-stack web application built with the MERN stack (MongoDB, Express, React,
 
 ## Screenshot
 
-![Application Screenshot](MERN-CRASH-COURSE/frontend/src/image/screenshot.png)
+![Application Screenshot](frontend/src/image/screenshot.png)
 
 ---
 
