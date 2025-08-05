@@ -95,4 +95,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-> **Note:** Replace `screenshot.png` with your actual screenshot file if needed.
+> 
